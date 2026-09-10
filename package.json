@@ -1,0 +1,22 @@
+{
+  "name": "talenthub-hr-app",
+  "version": "1.0.0",
+  "description": "Sistema de Recursos Humanos (RRHH) con Frontend React, Backend Express y Base de Datos NoSQL",
+  "scripts": {
+    "server": "npm.cmd run dev --prefix server",
+    "client": "npm.cmd run dev --prefix client",
+    "start": "npm.cmd start --prefix server",
+    "build": "npm.cmd run build --prefix client"
+  },
+  "keywords": [
+    "rrhh",
+    "hr",
+    "human-resources",
+    "nosql",
+    "react",
+    "express",
+    "crud"
+  ],
+  "author": "TalentHub Team",
+  "license": "MIT"
+}
